@@ -18,3 +18,4 @@ A simple GUI program that acts as a wrapper around the spotdl CLI.
 8. View the downloaded MP3 files on the path that you entered earlier.
 
 ## Screenshots
+![ss](https://i.ibb.co/j84kdwd/Screenshot-2021-04-19-at-9-23-24-PM.png)
