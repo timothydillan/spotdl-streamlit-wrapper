@@ -1,5 +1,5 @@
 # spotdl-streamlit-wrapper
-A simple GUI program that acts as a wrapper around the spotdl CLI.
+A simple GUI program that acts as a wrapper around the spotdl CLI. Made using streamlit.
 
 ## Prerequsities
 1. streamlit -> `pip install streamlit`
